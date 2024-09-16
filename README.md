@@ -1,0 +1,2 @@
+This repository consists five labs offered by Professor Michael Greenspan of Department of Electrical and Computer Engineering,  Smith Engineering, Queen's University in Fall 2023. Professor Greenspan and Queen's University reserves all rights of the course materials included. 
+Part of or all codes are developed by Shenghao Jin. Models and training datasets copyright goes to their copyright owner. 
