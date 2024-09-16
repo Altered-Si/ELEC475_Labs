@@ -1,0 +1,2 @@
+python ./src/main.py -e 1 -b 1 -s model.pth -m test
+python ./src/display.py -s model.pth -e 1 -b 1 -s model.pth -d y

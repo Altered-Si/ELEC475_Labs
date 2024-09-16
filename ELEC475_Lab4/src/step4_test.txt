@@ -1,0 +1,1 @@
+python ./src/YODA_new.py -i ./data/step4 -o ./data/step4/out/ -m test -c model.pth -d y

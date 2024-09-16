@@ -1,0 +1,2 @@
+python ./src/train.py -content_dir ./datasets/COCO1k/ -style_dir ./datasets/wikiart1k/ -gamma 0.75 -e 20 -b 8 -l encoder.pth -s decoder.pth -p decoder.png
+python ./src/train.py -content_dir ./datasets/COCO10k/ -style_dir ./datasets/wikiart10k/ -gamma 1.0 -e 40 -b 16 -l encoder.pth -s decoder.pth -p decoder.png

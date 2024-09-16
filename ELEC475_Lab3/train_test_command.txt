@@ -1,0 +1,6 @@
+train:
+python .\train_vanilla.py -e 20 -b 8 -l encoder.pth -s decoder.pth -p loss_curve.png
+python .\train_mod.py -e 20 -b 8 -l encoder.pth -s decoder_mod.pth -p loss_curve_mod.png
+test:
+python .\test_vanilla.py -decoder decoder.pth -encoder encoder.pth -b 16
+python .\test_mod.py -decoder decoder_mod.pth -encoder encoder.pth -b 16

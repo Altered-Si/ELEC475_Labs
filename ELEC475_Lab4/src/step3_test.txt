@@ -1,0 +1,1 @@
+python ./src/test.py -b 64 -s model.pth

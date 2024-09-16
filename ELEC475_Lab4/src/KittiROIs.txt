@@ -1,0 +1,5 @@
+python3 KittiToYodaROIs.py -i ./data/Kitti8 -o ./data/Kitti8_ROIs/train -m train
+python ./src/KittiToYodaROIs.py -i ./data/Kitti8 -o ./data/Kitti8_ROIs/train/ -m train
+
+
+python ./src/train.py -e 20 -b 8 -l encoder.pth -s decoder.pth -p loss_curve.png

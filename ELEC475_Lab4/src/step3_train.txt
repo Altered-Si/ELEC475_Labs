@@ -1,0 +1,1 @@
+python ./src/train.py -e 20 -b 64 -s model.pth -p loss_curve.png

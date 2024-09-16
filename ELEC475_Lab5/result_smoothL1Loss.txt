@@ -1,0 +1,44 @@
+training...
+epoch 1
+2023-12-04 20:17:20.983879 Epoch 1, Loss: 21.783910, Avg Distance: 34.4820
+epoch 2
+2023-12-04 20:17:58.209248 Epoch 2, Loss: 10.259460, Avg Distance: 16.9698
+epoch 3
+2023-12-04 20:18:34.447380 Epoch 3, Loss: 7.044350, Avg Distance: 11.8275
+epoch 4
+2023-12-04 20:19:10.619497 Epoch 4, Loss: 4.920409, Avg Distance: 8.5063
+epoch 5
+2023-12-04 20:19:48.057899 Epoch 5, Loss: 3.463958, Avg Distance: 6.1988
+epoch 6
+2023-12-04 20:20:24.533084 Epoch 6, Loss: 2.644082, Avg Distance: 4.8983
+epoch 7
+2023-12-04 20:21:00.475149 Epoch 7, Loss: 2.135871, Avg Distance: 4.1083
+epoch 8
+2023-12-04 20:21:38.211617 Epoch 8, Loss: 1.860895, Avg Distance: 3.6528
+epoch 9
+2023-12-04 20:22:14.196692 Epoch 9, Loss: 1.622377, Avg Distance: 3.2763
+epoch 10
+2023-12-04 20:22:50.228778 Epoch 10, Loss: 1.492741, Avg Distance: 3.0635
+epoch 11
+2023-12-04 20:23:26.377890 Epoch 11, Loss: 1.356909, Avg Distance: 2.8385
+epoch 12
+2023-12-04 20:24:02.565010 Epoch 12, Loss: 1.294206, Avg Distance: 2.7366
+epoch 13
+2023-12-04 20:24:38.487071 Epoch 13, Loss: 1.231112, Avg Distance: 2.6399
+epoch 14
+2023-12-04 20:25:16.031499 Epoch 14, Loss: 1.192421, Avg Distance: 2.5662
+epoch 15
+2023-12-04 20:25:52.013573 Epoch 15, Loss: 1.144509, Avg Distance: 2.4827
+epoch 16
+2023-12-04 20:26:29.484988 Epoch 16, Loss: 1.101437, Avg Distance: 2.4200
+epoch 17
+2023-12-04 20:27:06.095203 Epoch 17, Loss: 1.108420, Avg Distance: 2.4322
+epoch 18
+2023-12-04 20:27:42.393349 Epoch 18, Loss: 1.084738, Avg Distance: 2.3952
+epoch 19
+2023-12-04 20:28:19.733749 Epoch 19, Loss: 1.091981, Avg Distance: 2.4012
+epoch 20
+2023-12-04 20:28:56.145920 Epoch 20, Loss: 1.091599, Avg Distance: 2.3959
+
+2023-12-05 16:02:32.627837 testing...
+2023-12-05 16:02:40.078507 Loss: 2.716983, Avg Dist: 5.0187, Min Dist: 0.0915, Max Dist: 118.5893, Std Dev: 8.7780
